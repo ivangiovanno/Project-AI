@@ -1,0 +1,63 @@
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\projectLab_1.exe.config
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\projectLab_1.exe
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\projectLab_1.pdb
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.Form1.resources
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.Form2.resources
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.Form3.resources
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.Properties.Resources.resources
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.exe
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\obj\Debug\projectLab_1.pdb
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\Accord.dll
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\Accord.Imaging.dll
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\Accord.Math.Core.dll
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\Accord.Math.dll
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\Accord.Neuro.dll
+C:\Users\MSI\Desktop\Artificial Neural Network\projectLab_1\projectLab_1\bin\Debug\Accord.Statistics.dll
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\bin\Debug\projectLab_1.exe.config
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\obj\Debug\projectLab_1.exe
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\obj\Debug\projectLab_1.pdb
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\obj\Debug\projectLab_1.csprojResolveAssemblyReference.cache
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\obj\Debug\projectLab_1.Form1.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\obj\Debug\projectLab_1.Form2.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\obj\Debug\projectLab_1.Form3.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\obj\Debug\projectLab_1.Properties.Resources.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\obj\Debug\projectLab_1.csproj.GenerateResource.Cache
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\bin\Debug\projectLab_1.exe
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\projectLab_1\projectLab_1\bin\Debug\projectLab_1.pdb
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\bin\Debug\projectLab_1.exe.config
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\obj\Debug\projectLab_1.exe
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\obj\Debug\projectLab_1.pdb
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\bin\Debug\projectLab_1.exe
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\bin\Debug\projectLab_1.pdb
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\obj\Debug\projectLab_1.csprojResolveAssemblyReference.cache
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\obj\Debug\projectLab_1.Form1.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\obj\Debug\projectLab_1.Form2.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\obj\Debug\projectLab_1.Form3.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\obj\Debug\projectLab_1.Properties.Resources.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_2\projectLab_1\obj\Debug\projectLab_1.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\bin\Debug\projectLab_1.exe.config
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\bin\Debug\projectLab_1.exe
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\bin\Debug\projectLab_1.pdb
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.Form1.resources
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.Form2.resources
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.Form3.resources
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.Properties.Resources.resources
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.exe
+C:\Users\MSI\Desktop\Artificial Neural Network\Giovanno Coba\projectLab_2\projectLab_1\obj\Debug\projectLab_1.pdb
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\bin\Debug\projectLab_1.exe.config
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\obj\Debug\projectLab_1.exe
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\obj\Debug\projectLab_1.pdb
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\bin\Debug\projectLab_1.exe
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\bin\Debug\projectLab_1.pdb
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\obj\Debug\projectLab_1.csprojResolveAssemblyReference.cache
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\obj\Debug\projectLab_1.Form1.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\obj\Debug\projectLab_1.Form2.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\obj\Debug\projectLab_1.Form3.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\obj\Debug\projectLab_1.Properties.Resources.resources
+D:\GiovannoSC\Documents\Materi Kuliah\Semester 5\ANN\LAB\projectLab_5\projectLab_1\obj\Debug\projectLab_1.csproj.GenerateResource.Cache
